@@ -7,6 +7,7 @@ const Header = () => {
       <nav className="grid gap-6 md:flex justify-center font-bold text-2xl">
         <Link to="/">Home</Link>
         <Link to="/friends">Friends</Link>
+        <Link to="/posts">Posts</Link>
         <Link to="/about">About</Link>
       </nav>
     </div>
